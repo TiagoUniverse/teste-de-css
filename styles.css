@@ -12,9 +12,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 900px;
 }
 
 .container button{
     padding: 10px;
-    border: ;
+    border-radius: 15%;
+    border: none;
+    box-shadow: 0 0 3px black;
+    color: white;
+    background-color: rgb(111, 217, 111);
+    font-size: 18px;
 }

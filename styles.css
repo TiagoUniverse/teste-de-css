@@ -1,0 +1,20 @@
+*, ::after , ::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(90deg, rgb(91, 91, 222), white);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container button{
+    padding: 10px;
+    border: ;
+}
